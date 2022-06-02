@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+}
+#form-1 {
+  margin: auto;
+  padding: 20px;
+  max-width: 800px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+.form-label,
+.form-message {
+  text-align: left;
+}
+.form-label {
+  font-weight: 700;
+  padding-bottom: 6px;
+  line-height: 1.8rem;
+  font-size: 1.4rem;
+}

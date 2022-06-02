@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  height: 1000px;
+}
+#form-1 {
+  margin: auto;
+  padding: 20px;
+  max-width: 800px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+.form-control {
+  /* width: 100%; */
+  /* display: block; */
+}
+.form-label {
+  /* display: block; */
+}

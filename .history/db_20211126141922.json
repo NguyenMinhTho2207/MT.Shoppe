@@ -1,0 +1,19 @@
+{
+  "course": [
+    {
+      "name": "Nguyễn Minh Thọ",
+      "age": 18,
+      "id": 1
+    },
+    {
+      "name": "á",
+      "age": 19,
+      "id": 2
+    },
+    {
+      "name": "a",
+      "age": "a",
+      "id": 3
+    }
+  ]
+}

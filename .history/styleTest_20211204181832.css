@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  justify-content: center;
+  align-items: center;
+}
+#form-1 {
+  padding: 20px;
+  max-width: 800px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+.form-control {
+  width: 100%;
+  display: block;
+}

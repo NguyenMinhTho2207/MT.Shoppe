@@ -1,0 +1,1 @@
+var inputElement = document.querySelector('input[tupe=text]')
